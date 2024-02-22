@@ -1,5 +1,5 @@
 # Os Command Injection
-**OS command injection, simple case**
+**OS command injection, simple case**,
 This lab contains an OS command injection vulnerability in the product `stock checker`.
 
 The application executes a shell command containing user-supplied product and store IDs, and returns the raw output from the command in its response.[df1]
